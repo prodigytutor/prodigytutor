@@ -51,7 +51,3 @@ Next.js | TypeScript | TailwindCSS | Prisma | MongoDB | Python | LangChain | Ope
 > *“I don’t just build software. I build launchpads.”*
 
 ```
-
----
-
-Want a version with more street appeal or a more minimalistic one? Or links wired up with actual repos? I can remix it however you want.
